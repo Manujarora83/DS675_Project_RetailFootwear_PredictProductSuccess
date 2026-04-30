@@ -1,0 +1,1 @@
+"""Footwear ML project package."""

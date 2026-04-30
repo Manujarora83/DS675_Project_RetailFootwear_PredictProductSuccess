@@ -1,0 +1,16 @@
+brand,category,gender,base_price_usd,discount_percent,sales_channel,country,Predicted,Confidence,Actual,Correct
+ASICS,Running,Men,80,30,Retail Store,USA,Underperforming,40.6%,Underperforming,True
+ASICS,Running,Unisex,78,10,Online,Germany,Underperforming,35.4%,Average,False
+New Balance,Lifestyle,Unisex,104,0,Retail Store,Pakistan,Underperforming,49.8%,Underperforming,True
+Puma,Lifestyle,Men,75,30,Online,UK,Underperforming,43.9%,Average,False
+New Balance,Training,Unisex,190,0,Online,Pakistan,High Performing,87.0%,High Performing,True
+Nike,Training,Men,73,10,Online,India,Underperforming,39.1%,Underperforming,True
+Puma,Basketball,Unisex,121,5,Retail Store,USA,High Performing,59.0%,High Performing,True
+New Balance,Gym,Unisex,179,30,Online,USA,Underperforming,67.5%,Underperforming,True
+Reebok,Running,Men,71,5,Online,UAE,Underperforming,53.1%,Average,False
+Adidas,Running,Men,115,30,Online,UK,Underperforming,46.5%,High Performing,False
+New Balance,Running,Women,136,30,Online,Germany,Underperforming,39.2%,Underperforming,True
+Reebok,Basketball,Unisex,142,30,Online,Germany,Underperforming,59.7%,Underperforming,True
+ASICS,Running,Men,101,0,Online,UK,Underperforming,61.9%,Average,False
+ASICS,Running,Women,207,10,Online,USA,High Performing,76.3%,Average,False
+New Balance,Lifestyle,Men,133,5,Retail Store,USA,Underperforming,55.9%,Underperforming,True

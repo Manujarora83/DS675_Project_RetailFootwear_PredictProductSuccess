@@ -1,0 +1,31 @@
+{
+  "train_samples": 21000,
+  "validation_samples": 4500,
+  "test_samples": 4500,
+  "processed_feature_count": 34,
+  "numeric_features": [
+    "size",
+    "base_price_usd",
+    "discount_percent",
+    "units_sold",
+    "order_year",
+    "order_month",
+    "order_quarter",
+    "price_sensitivity"
+  ],
+  "categorical_features": [
+    "brand",
+    "category",
+    "gender",
+    "color",
+    "payment_method",
+    "sales_channel",
+    "country",
+    "customer_income_level"
+  ],
+  "class_mapping": {
+    "Average": 0,
+    "High Performing": 1,
+    "Underperforming": 2
+  }
+}

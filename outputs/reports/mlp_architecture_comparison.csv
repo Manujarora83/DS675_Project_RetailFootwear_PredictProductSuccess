@@ -1,0 +1,7 @@
+Architecture,Best Val F1,Parameters
+Shallow (64),0.5376,2563
+Medium (128 -> 64),0.5291,13315
+Deep (128 -> 64 -> 32),0.5267,15363
+Wide (256 -> 128 -> 64),0.5269,51203
+Deep + Low Dropout (0.1),0.5274,15363
+Deep + High Dropout (0.5),0.5278,15363
